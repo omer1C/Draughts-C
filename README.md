@@ -1,7 +1,7 @@
 # Draughts-C
 Draughts play in C.
 
-The known game of Draughts I build during systems programing course.
+The known game of Draughts I build.
 
 The rules are a bit diffrent:
 1) You can not eat backwards or have more then one eat in a turn.
