@@ -20,7 +20,8 @@ Input for location and destination:
 
 Eating rival pawns:
 
-![image](https://github.com/omer1C/Draughts-C/assets/135855862/1c3759bd-fc71-4309-ab3d-bd9e81067984)
+![image](https://github.com/omer1C/Draughts-C/assets/135855862/8d1fdcad-0c3e-459a-bd29-076d1d26aa83)
+
 
 Wining the game:
 
