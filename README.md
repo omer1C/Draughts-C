@@ -10,6 +10,7 @@ The rules are a bit diffrent:
 
 Enjoy!
 
-![image](https://github.com/omer1C/Draughts-C/assets/135855862/cd48169f-83d1-4b2c-9505-562ab3316a3f)
+![image](https://github.com/omer1C/Draughts-C/assets/135855862/cd48169f-83d1-4b2c-9505-562ab3316a3f) ![image](https://github.com/omer1C/Draughts-C/assets/135855862/f21d69c9-7f5d-4ce2-b700-a1c11419e9cb)
+
 
 
