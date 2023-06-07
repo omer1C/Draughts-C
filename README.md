@@ -9,3 +9,6 @@ The rules are a bit diffrent:
 3) Exit with typing 999 in one of the coordinate.
 
 Enjoy!
+
+
+![image](https://github.com/omer1C/Draughts-C/assets/135855862/3490526a-1ed2-4cd1-aa3b-fa4d407e9d79)
